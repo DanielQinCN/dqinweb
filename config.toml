@@ -1,4 +1,4 @@
-baseURL = "http://danielqincn.github.io/web"
+baseURL = "http://danielqincn.github.io/dqinweb"
 languageCode = "zh-cn"
 title = "Web Site of Dali"
 publishDir = "docs"
